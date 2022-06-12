@@ -4,13 +4,13 @@ This project is made for last semester project.
 
 **ACCESS** -
   
-  Admin-\
+  *Admin*-\
    Email - ravi@gmail.com\
    Password - 1234\
-  Staff -\
+  *Staff* -\
     Email - sachin@gmail.com\
     Password - 1234\
-   Student -\
+   *Student* -\
     Email - ranjit@gmail.com\  
     Password - 1234
   
