@@ -1,5 +1,5 @@
 St. Soldier College Management Systme using Django
-This projecgt is made for last semester project.
+This project is made for last semester project.
 
 ACCESS -
   Admin-
@@ -11,4 +11,5 @@ ACCESS -
    Student - 
     Email - ranjit@gmail.com  
     Password - 1234
+  
   
