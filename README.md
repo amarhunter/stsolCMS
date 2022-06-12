@@ -10,6 +10,6 @@ ACCESS -\
     Password - 1234\
    Student -\
     Email - ranjit@gmail.com\  
-    Password - 1234\
+    Password - 1234
   
   
