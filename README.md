@@ -11,7 +11,7 @@ This project is made for last semester project.
     Email - sachin@gmail.com\
     Password - 1234\
    *Student* -\
-    Email - ranjit@gmail.com
+    Email - ranjit@gmail.com\
     Password - 1234
   
   
